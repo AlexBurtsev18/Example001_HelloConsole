@@ -1,0 +1,15 @@
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.csproj.AssemblyReference.cache
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.AssemblyInfoInputs.cache
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.AssemblyInfo.cs
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.csproj.CoreCompileInputs.cache
+E:\GitEducation\C#\Examples\Exmple009\bin\Debug\net6.0\Exmple009.exe
+E:\GitEducation\C#\Examples\Exmple009\bin\Debug\net6.0\Exmple009.deps.json
+E:\GitEducation\C#\Examples\Exmple009\bin\Debug\net6.0\Exmple009.runtimeconfig.json
+E:\GitEducation\C#\Examples\Exmple009\bin\Debug\net6.0\Exmple009.dll
+E:\GitEducation\C#\Examples\Exmple009\bin\Debug\net6.0\Exmple009.pdb
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.dll
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\refint\Exmple009.dll
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.pdb
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\Exmple009.genruntimeconfig.cache
+E:\GitEducation\C#\Examples\Exmple009\obj\Debug\net6.0\ref\Exmple009.dll
